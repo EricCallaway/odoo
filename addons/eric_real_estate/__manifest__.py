@@ -27,6 +27,7 @@
         # 'views/views.xml',
         # 'views/templates.xml',
         'views/estate_property.xml',
+        'views/estate_menus.xml',
     ],
     # only loaded in demonstration mode
     'demo': [
